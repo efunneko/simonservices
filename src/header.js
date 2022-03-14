@@ -27,8 +27,8 @@ export class Header extends jst.Component {
         borderRadius$pt: 8,
         overflow: 'hidden',
         cursor: 'pointer',
-        border$px: [1, 'solid', jst.rgba(0,0,0,0.3)],
-        boxShadow$px: [0, 1, 5, jst.rgba(0,0,0,0.5)]
+        //border$px: [1, 'solid', jst.rgba(0,0,0,0.3)],
+        //boxShadow$px: [0, 1, 5, jst.rgba(0,0,0,0.5)]
       },
       icon$c: {
         width$pt: ICON_SIZE,
@@ -36,7 +36,8 @@ export class Header extends jst.Component {
       },
       name$c: {
         display: 'inline-block',
-        fontSize: '200%',
+        fontSize: '250%',
+        fontWeight: 'bold',
         verticalAlign: 'bottom',
         margin$pt: [10, 10]
       },
@@ -67,7 +68,7 @@ export class Header extends jst.Component {
     return jst.$div(
       {id: "header"},
       jst.$div({cn: '-iconDiv', events: {click: e => this.navigate('home')}},
-        jst.$img({cn: '-icon', src: 'img/icon.png'}),
+        jst.$img({cn: '-icon', src: 'img/simon.jpg'}),
       ),
       jst.$div({cn: '-name'}, "Simon Services"),
       jst.$div({cn: '-navBox'},
