@@ -1,6 +1,6 @@
 import {jst}            from "jayesstee";
-import {App}            from "./app";
+import {MainApp}        from "./app";
 
-let app = new App();
+let app = new MainApp();
 
 jst("body").appendChild(app);

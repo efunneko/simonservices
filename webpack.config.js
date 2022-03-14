@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: './src/index.html',
-      title: 'Jayesstee Starter'
+      title: 'Simon Services'
     })
   ],
   performance: {
