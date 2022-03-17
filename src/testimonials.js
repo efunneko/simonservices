@@ -3,18 +3,18 @@ import {MD}         from "./md.js";
 import {Page}       from "./page.js";
 
 const page = `
-![Simon Funnekotter](/img/simon-small.jpg)
+# What people have to say about Simon Services
 
-# About Simon
+I told him what I wanted to do, and he said, "I'll do it." He then did the work and I was happy.
 
-Hi, I'm Simon. I live in Old Ottawa East with my family.
+  *-- Simon's Dad*
 
 
 `
 //
 // About
 //
-export class About extends Page {
+export class Testimonials extends Page {
   constructor() {
     super();
     this.page = page;
