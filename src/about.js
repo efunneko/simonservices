@@ -3,7 +3,7 @@ import {MD}         from "./md.js";
 import {Page}       from "./page.js";
 
 const page = `
-![Simon Funnekotter](/img/simon-small.jpg)
+![Simon F](/img/simon-small.jpg)
 
 # About Simon
 
