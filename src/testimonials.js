@@ -5,7 +5,7 @@ import {Page}       from "./page.js";
 const page = `
 # What people have to say about Simon Services
 
-I told him what I wanted to do, and he said, "I'll do it." He then did the work and I was happy.
+I told him what I wanted done, and he said, "I'll do it." He then did the work and I was happy.
 
   *-- Simon's Dad*
 
