@@ -6,15 +6,16 @@ const page = `
 
 ## Q: Why are you doing this?
 
-
-## Q: How can I pay you?
-
+I always wanted to run my own business and my dad said that it's best to do it while you’re still at home. So that is what I did.
 
 ## Q: What jobs won't you do?
+
+Anything dangerous, something a 13-14 year old should probably not do and something that requires me to have a university degree to do.
 
 
 ## Q: How often do I need to pay you?
 
+At the end of the month I will collect all my payments. If you only hired me for one thing you can pay me right after if you would like. 
 
 ## Q: How can I pay you?
 
