@@ -10,7 +10,7 @@ I always wanted to run my own business and my dad said that it's best to do it w
 
 ## Q: What jobs won't you do?
 
-Anything dangerous, something a 13-14 year old should probably not do and something that requires me to have a university degree to do.
+Anything dangerous, something a 14-15 year old should probably not do or something that requires me to have a university degree to do.
 
 
 ## Q: How often do I need to pay you?
@@ -23,6 +23,11 @@ You can use Interact to pay me by sending me a email transfer to simonservices75
 enabled.
 
 Alternatively, you can pay me by cash.
+
+## Q: Is travel time included in your charge?
+
+Since I don't have a driver's license, I need to walk to your home. If it is far away, I may count the walking time as part of the
+time spent working.
 
 ## Q: What is this about a 'shared Google Drive spreadsheet'?
 
