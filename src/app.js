@@ -1,7 +1,6 @@
 import {jst}                   from "jayesstee";
 import Navigo                  from "navigo";
 import {Header}                from "./header";
-import {Support}               from "./support";
 import {About}                 from "./about";
 import {Home}                  from "./home";
 import {FAQ}                   from "./faq";
@@ -64,7 +63,6 @@ export class MainApp extends jst.Component {
     this.router.on("/home",      () => {this.currPage = new Home(this);      this.refresh()});
     this.router.on("/faq",       () => {this.currPage = new FAQ(this);       this.refresh()});
     this.router.on("/about",     () => {this.currPage = new About(this);     this.refresh()});
-    this.router.on("/support",   () => {this.currPage = new Support(this);   this.refresh()});
     this.router.on("/testimonials", () => {this.currPage = new Testimonials(this); this.refresh()});
   }
 
