@@ -10,7 +10,7 @@ I always wanted to run my own business and my dad said that it's best to do it w
 
 ## Q: What jobs won't you do?
 
-Anything dangerous, something a 14-15 year old should probably not do or something that requires me to have a university degree to do.
+Anything dangerous, something a 15-16 year old should probably not do or something that requires me to have a university degree to do.
 
 
 ## Q: How often do I need to pay you?
