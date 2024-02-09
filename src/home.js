@@ -4,20 +4,20 @@ import {Page}       from "./page.js";
 const page = `
 # Welcome to Simon Services
 
-Hi, I'm Simon. I am a young boy who will do many odd jobs that you don't want to do.
+Hi, I'm Simon. I am a teenager who will do many odd jobs that you don't want to do.
 You pay me for the exact amount of time I work for you.
 
 ## Services
   - Snow Removal
   - Yard work (mowing, raking, gardening, etc)
-  - Car washing and vacuuming
+  - Car washing, vacuuming and detailing
   - Cleaning
   - House care while you are away
-  - And anything else suitable for an early teenager
+  - And anything else suitable for a teenager
 
 ## How much do I charge?
 
-I charge $15 per hour.
+I charge $16 per hour.
 
 ## How do you book my services?
 
